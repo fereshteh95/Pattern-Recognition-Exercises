@@ -1,3 +1,16 @@
+# Add Later
+LDA.ipynb
+LinearTransformation.ipynb
+PCADimensityReduction.ipynb
+pendigitstest.csv
+pendigitstrain.csv
+retailMarketing.csv
+testData.csv
+testLabels.csv
+trainData.csv
+trainLabels.csv
+FACES/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
